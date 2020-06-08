@@ -1,0 +1,20 @@
+.container{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+    
+.jumbotron {
+    margin:70px,30px;
+    background:  rgb(36, 35, 39) ;
+    color:floralwhite;
+    min-height: 150px;
+    border-radius: 0;
+}
+
+.jumbotron h1 ,h2{
+    text-align: center;
+    padding-top: 0;
+}
+
+hr{
+    height: 20px;
+}
